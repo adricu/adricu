@@ -1,25 +1,38 @@
 <div align="center">
 
-# Howdy 
+# Hi there, I'm Adrián! 👋
 
-I am Adrián and I'm currently working at [Bitpanda](https://www.linkedin.com/company/bitpanda/) as a Software Engineer.
+I'm a passionate software engineer.
 
-I'm an experienced software engineer with a proven track record in designing, developing, and deploying secure and scalable solutions.
+I like simple, efficient and smart code.
+
+Dedicated to staying current with the latest advancements and tech while prioritizing continuous learning and best practices in software development.
+
+## 🚀 My Expertise
 
 My recent focus has been on the blockchain space, where I've gained a deep understanding of its technology and applications. 
 
-I'm passionate about creating not just functional, but elegant and high-performing software. Continuously seeking opportunities for improvement, I enhance code through efficient algorithms, refactoring, and restructuring. Dedicated to staying current with the latest advancements, I prioritize continuous learning and adherence to best practices in software development.
+## 💻 Tech Stack
 
-# My Tech Stack
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-[![](https://skillicons.dev/icons?i=python,javascript,typescript&perline=3)](#)
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
 
-[![](https://skillicons.dev/icons?i=django,fastapi,flask&perline=3)](#)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Terraform](https://skillicons.dev/icons?i=terraform)
 
-[![](https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,github,terraform&perline=3)](#)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
 
-[![](https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3)](#)
-
-# WIP
+## 📚 Education
 
 </div>
